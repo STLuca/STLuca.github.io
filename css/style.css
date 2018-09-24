@@ -1,0 +1,28 @@
+.card-content {
+    max-width: 100%;
+    margin: auto;
+}
+
+.section-heading {
+    text-align: center;
+}
+
+/*
+.card-content, .one {
+    background-image: url('http://www.wallpapers4u.org/wp-content/uploads/restaurant_cafe_design_style_tables_chairs_39235_1920x1080.jpg');
+    background-size:  100% auto;
+}
+*/
+
+.info {
+    max-width: 800px;
+    margin: auto;
+
+}
+
+/*
+p {
+    font-size: 24px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+*/
